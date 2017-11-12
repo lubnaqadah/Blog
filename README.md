@@ -17,7 +17,7 @@ An interactive blog app, built using node.js, express.js and mySQL following the
 * MySQL
 * express.js
 * npm packages:
-	- [mysql](github.com/mysqljs/mysql)
+	- [express](https://github.com/expressjs/express)
 	- [sequelize](github.com/sequelize/sequelize)
 	- [mysql](github.com/mysqljs/mysql)
 	- [body-parser](github.com/expressjs/body-parser)
