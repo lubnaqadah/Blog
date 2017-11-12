@@ -1,4 +1,4 @@
-###Blog
+### Blog
 ***
 
 An interactive blog app, built using node.js, express.js and mySQL following the MVC pattern. Where users can:
